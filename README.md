@@ -3,11 +3,19 @@
 <br>
 ### Contributors
 <br>
+
 <a href="https://github.com/bvssatwika">
-  Shweta2762
+  BVS Satwika - RA1911033010126 (@bvssatwika)
+  
+  </a>
   <br>
 <a href="https://github.com/Shweta2762">
-  bvssatwika
+  Shweta Rajan Nambissan - RA1911033010120 (@Shweta2762)
+  
+  </a>
   <br>
-<!--   <img src="https://github.com/bvssatwika.png?size=5"> -->
-</a>
+  
+  <a href="https://github.com/krizz1909">
+B.S.K.Bharadwaj - RA1911033010109 (@krizz1909)
+  
+  </a>
